@@ -1,7 +1,7 @@
 ### Hi there 👋, I`m Jesus aka shu353.
 #### working to be a full stack JS dev.
 
-[![Spotify](https://shu353.vercel.app/api/spotify)](https://open.spotify.com/user/shu353)
+[![Spotify](https://novatorem-shu353.vercel.app//api/spotify)](https://open.spotify.com/user/shu353)
 
 I`m from Costa Rica, I like to make music, code, read and learn. 
 currently reading YDKJS books and learning React and node.js
