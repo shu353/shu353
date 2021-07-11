@@ -1,6 +1,9 @@
 ### Hi there 👋, I`m Jesus aka shu353.
 #### working to be a full stack JS dev.
 
+##spotify playing
+[<img src="https://novatorem-shu353.vercel.app/api/spotify-playing" alt="shu353" width=350 >]
+(https://open.spotify.com/user/shu353)
 
 
 
