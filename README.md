@@ -2,7 +2,6 @@
 #### working to be a full stack JS dev.
 
 
-[![Spotify](https://shu353.vercel.app/api/spotify)](https://open.spotify.com/user/shu353)
 
 
 
